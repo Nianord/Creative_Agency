@@ -489,7 +489,7 @@ body.lock {
     .cards__row {
       flex-direction: column; } }
   .cards__row_horizontal {
-    align-items: start;
+    align-items: center;
     justify-content: stretch; }
 .cards__item {
   position: relative;
