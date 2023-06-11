@@ -478,7 +478,8 @@ body.lock {
   flex-direction: column; }
   .cards__container_horizontal {
     flex-direction: row;
-    justify-content: stretch; }
+    justify-content: stretch;
+    align-items:flex-start;}
   @media (max-width: 69rem) {
     .cards__container {
       flex-direction: column; } }
