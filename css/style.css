@@ -316,7 +316,8 @@ body.lock {
 
 .whoWeAre {
   width: 100%;
-  background: linear-gradient(268.78deg, rgba(109, 149, 252, 0.67) -53.1%, rgba(109, 149, 252, 0) 30.41%), url(../images/img/beautiful-woman-with-big-jewel.webp) no-repeat top 0 right 0; }
+  background: linear-gradient(268.78deg, rgba(109, 149, 252, 0.67) -53.1%, rgba(109, 149, 252, 0) 30.41%), url(../images/img/beautiful-woman-with-big-jewel.webp) no-repeat top 0 right 0;
+  -apple-background: linear-gradient(268.78deg, rgba(109, 149, 252, 0.67) -53.1%, rgba(109, 149, 252, 0) 30.41%), url(../images/img/beautiful-woman-with-big-jewel.jpg) no-repeat top 0 right 0;}
   @media (max-width: 100rem) {
     .whoWeAre {
       background: linear-gradient(268.78deg, rgba(109, 149, 252, 0.67) -53.1%, rgba(109, 149, 252, 0) 30.41%), url(../images/img/beautiful-woman-with-big-jewel.webp) no-repeat top 0 right -40%; } }
