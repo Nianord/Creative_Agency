@@ -316,14 +316,14 @@ body.lock {
 
 .whoWeAre {
   width: 100%;
-  background: linear-gradient(268.78deg, rgba(109, 149, 252, 0.67) -53.1%, rgba(109, 149, 252, 0) 30.41%), url(../images/img/beautiful-woman-with-big-jewel.webp) no-repeat top 0 right 0;
+  background: linear-gradient(268.78deg, rgba(109, 149, 252, 0.67) -53.1%, rgba(109, 149, 252, 0) 30.41%), url(../images/img/beautiful-woman-with-big-jewel.jpg) no-repeat top 0 right 0;
   -webkit-background: linear-gradient(268.78deg, rgba(109, 149, 252, 0.67) -53.1%, rgba(109, 149, 252, 0) 30.41%), url(../images/img/beautiful-woman-with-big-jewel.jpg) no-repeat top 0 right 0;}
   @media (max-width: 100rem) {
     .whoWeAre {
-      background: linear-gradient(268.78deg, rgba(109, 149, 252, 0.67) -53.1%, rgba(109, 149, 252, 0) 30.41%), url(../images/img/beautiful-woman-with-big-jewel.webp) no-repeat top 0 right -40%; } }
+      background: linear-gradient(268.78deg, rgba(109, 149, 252, 0.67) -53.1%, rgba(109, 149, 252, 0) 30.41%), url(../images/img/beautiful-woman-with-big-jewel.jpg) no-repeat top 0 right -40%; } }
   @media (max-width: 75rem) {
     .whoWeAre {
-      background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img/beautiful-woman-with-big-jewel.webp) no-repeat top 0 right -40%; } }
+      background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img/beautiful-woman-with-big-jewel.jpg) no-repeat top 0 right -40%; } }
   .whoWeAre__container {
     display: flex;
     padding: 7rem 0 10rem; }
@@ -420,14 +420,14 @@ body.lock {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: linear-gradient(273.72deg, rgba(109, 149, 252, 0.26) 6.51%, rgba(109, 149, 252, 0) 57.56%), url(../images/img/Pngtree_artificial_intelligence_management_system_robot_rev.webp) no-repeat bottom 0 right 0;
+    background: linear-gradient(273.72deg, rgba(109, 149, 252, 0.26) 6.51%, rgba(109, 149, 252, 0) 57.56%), url(../images/img/Pngtree_artificial_intelligence_management_system_robot_rev.jpg) no-repeat bottom 0 right 0;
     transform: rotate(180deg); }
     @media (max-width: 100rem) {
       .ideas:before {
-        background: linear-gradient(273.72deg, rgba(109, 149, 252, 0.26) 6.51%, rgba(109, 149, 252, 0) 57.56%), url(../images/img/Pngtree_artificial_intelligence_management_system_robot_rev.webp) no-repeat bottom 0 right -40%; } }
+        background: linear-gradient(273.72deg, rgba(109, 149, 252, 0.26) 6.51%, rgba(109, 149, 252, 0) 57.56%), url(../images/img/Pngtree_artificial_intelligence_management_system_robot_rev.jpg) no-repeat bottom 0 right -40%; } }
     @media (max-width: 75rem) {
       .ideas:before {
-        background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img/Pngtree_artificial_intelligence_management_system_robot_rev.webp) no-repeat top 0 right -40%; } }
+        background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img/Pngtree_artificial_intelligence_management_system_robot_rev.jpg) no-repeat top 0 right -40%; } }
   .ideas__container {
     position: relative;
     z-index: 10;
