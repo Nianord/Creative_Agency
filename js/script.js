@@ -38,7 +38,7 @@ let myImageSlider = new Swiper('.slider', {
 	watchOverflow: true,
 	spaceBetween: 20,
 	loop: true,
-	loopedSlides: 2,
+	loopedSlides: 5,
 	effect: 'slide',
 	centeredSlides: true,
 });
